@@ -49,21 +49,21 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="成人",🔞🈲驚艷臺
+#EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="成人",🔞驚艷臺🈲
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲Mainu台
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞Mainu台🈲
 http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲EXTASY
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞EXTASY🈲
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲EROXXX
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞EROXXX🈲
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲EROX
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞EROX🈲
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲DORCEL TV
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞DORCEL TV🈲
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲Desire
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞Desire🈲
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞🈲BrazzersTV Europe
+#EXTINF:-1  tvg-logo="" group-title="成人",🔞BrazzersTV Europe🈲
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="電影",WOW MOVIES
 https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
@@ -179,7 +179,7 @@ https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="" group-title="",❌緯來體育台
 https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e0/SET_Taiwan_Channel_logo.png/240px-SET_Taiwan_Channel_logo.png" group-title="",❌三立台灣台
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e0/SET_Taiwan_Channel_logo.png/240px-SET_Taiwan_Channel_logo.png" group-title="",三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="" group-title="",❌三立台灣台
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
@@ -187,7 +187,7 @@ https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 https://stream1.freetv.fun/ren-jian-wei-shi-2.m3u8
 #EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="成人",❌🔞🈲香蕉臺🍌
 http://125.227.210.55:8159/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="",❌民視新聞
+#EXTINF:-1  tvg-logo="" group-title="",民視新聞
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://cc.tvbs.com.tw/portal/images/logo.png" group-title="",🔇TVBS HD
+#EXTINF:-1  tvg-logo="http://cc.tvbs.com.tw/portal/images/logo.png" group-title="",TVBS HD
 http://125.227.210.55:8188/VideoInput/play.ts
