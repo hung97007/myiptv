@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000099.png" group-title="知識",Discovery Asia 探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="知識",Discovery
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/431-4314348_gac-hallmark-channel-discovery-channel-logo-drug-discovery.jpg" group-title="知識",Discovery
 http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1  tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png" group-title="News 新聞",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
