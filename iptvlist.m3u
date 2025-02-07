@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210817982613_24.jpg" group-title="綜藝",[HD]緯來日本
-rtmp://f13h.mine.nu:1935/sat/tv771
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000099.png" group-title="知識",Discovery Asia 探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="知識",Discovery
@@ -159,6 +157,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 rtmp://f13h.mine.nu:1935/sat/tv701
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/VL_Japan_Channel_logo.png" group-title="",(rtmp)緯來日本台
 rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210817982613_24.jpg" group-title="綜藝",(rtmp)緯來日本
+rtmp://f13h.mine.nu:1935/sat/tv771
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845" group-title="",(rtmp)ELEVEN2
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358" group-title="",(rtmp)ELEVEN1
