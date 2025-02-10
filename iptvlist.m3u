@@ -95,11 +95,11 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="卡通",Animax TW
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/animax-logo.png" group-title="卡通",Animax TW
 https://stream1.freetv.fun/animax-1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="卡通",CN卡通頻道
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/CN_卡通頻道.png" group-title="卡通",CN卡通頻道
 https://stream1.freetv.fun/cnqia-tong-3.ctv
-#EXTINF:-1  tvg-logo="" group-title="戲劇",緯來戲劇
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/緯來戲劇台_logo.png" group-title="戲劇",緯來戲劇台
 https://stream1.freetv.fun/wei-lai-xi-ju-1.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="成人",🔞驚艷臺🈲
