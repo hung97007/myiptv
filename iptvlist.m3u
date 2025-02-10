@@ -5,11 +5,15 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/431-4314348_gac-hallmark-channel-discovery-channel-logo-drug-discovery.jpg" group-title="知識",Discovery
 http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/431-4314348_gac-hallmark-channel-discovery-channel-logo-drug-discovery.jpg" group-title="知識",Discovery
+https://stream1.freetv.fun/discoveryhd-1.m3u8
 #EXTINF:-1  tvg-logo="https://www.brandinlabs.com/wp-content/uploads/2018/10/38668.png" group-title="",動物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png" group-title="News 新聞",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png" group-title="News 新聞",Taiwan Plus
+https://stream1.freetv.fun/taiwan-plus-tv-1.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="News 新聞",三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000208.png" group-title="News 新聞",民視新聞台 HD
@@ -66,10 +70,16 @@ https://stream1.freetv.fun/animax-1.m3u8
 http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/200px-Cinemax_2016.svg.png" group-title="電影",CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/200px-Cinemax_2016.svg.png" group-title="電影",CINEMAX
+https://stream1.freetv.fun/cinemax-17.ctv
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000068.png" group-title="電影",amc電影臺
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="電影",amc電影臺
 https://stream1.freetv.fun/amczui-ai-dian-ying-3.m3u8
+#EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="電影",amc電影臺
+https://stream1.freetv.fun/amcdian-ying-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="電影",東森洋片
+https://stream1.freetv.fun/dong-sen-yang-pian-4.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e0/SET_Taiwan_Channel_logo.png/240px-SET_Taiwan_Channel_logo.png" group-title="",三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
@@ -81,10 +91,16 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",中華小當家
+#EXTINF:-1  tvg-logo="" group-title="卡通",中華小當家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="卡通",Animax TW
+https://stream1.freetv.fun/animax-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="卡通",CN卡通頻道
+https://stream1.freetv.fun/cnqia-tong-3.ctv
+#EXTINF:-1  tvg-logo="" group-title="戲劇",緯來戲劇
+https://stream1.freetv.fun/wei-lai-xi-ju-1.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="成人",🔞驚艷臺🈲
 http://125.227.210.55:8156/VideoInput/play.ts
@@ -167,8 +183,18 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",(大街)八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="",NBA TV
+#EXTINF:-1  tvg-logo="" group-title="體育",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1  tvg-logo="" group-title="體育",DAZN 1(TW)
+https://stream1.freetv.fun/dazn1-1.ctv
+#EXTINF:-1  tvg-logo="" group-title="體育",DAZN 4
+https://stream1.freetv.fun/dazn-portugues-1.ctv
+#EXTINF:-1  tvg-logo="" group-title="體育",ELTA體育1台
+https://stream1.freetv.fun/eltati-1-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="體育",ELTA體育2台
+https://stream1.freetv.fun/eltati-2-1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="體育",ELTA體育3台
+https://stream1.freetv.fun/eltati-3-1.m3u8
 
 #EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164810377610_27.png" group-title="綜合",(rtmp)緯來育樂
 rtmp://f13h.mine.nu:1935/sat/tv701
