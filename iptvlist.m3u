@@ -9,6 +9,8 @@ http://61.221.215.25:8800/hls/1/index.m3u8
 https://stream1.freetv.fun/discoveryhd-1.m3u8
 #EXTINF:-1  tvg-logo="https://www.brandinlabs.com/wp-content/uploads/2018/10/38668.png" group-title="",動物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/VL_Japan_Channel_logo.png" group-title="",緯來日本台
+http://fm1077.serv00.net/Smart.php?id=videolandjapan
 
 #EXTINF:-1  tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png" group-title="News 新聞",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
