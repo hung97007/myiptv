@@ -1,8 +1,13 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000099.png" group-title="知識",Discovery Asia 探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Discovery-asia.png" group-title="知識",Discovery Asia
+http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/431-4314348_gac-hallmark-channel-discovery-channel-logo-drug-discovery.jpg" group-title="知識",Discovery
 http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.brandinlabs.com/wp-content/uploads/2018/10/38668.png" group-title="",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png" group-title="News 新聞",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="News 新聞",三立新聞
@@ -25,6 +30,11 @@ http://125.227.210.55:35802/VideoInput/play.ts
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News 新聞",BBC 新聞
 http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="" group-title="News 新聞",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png" group-title="News 新聞",NTV NEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000007.png" group-title="",台視 HD
 http://125.227.210.55:8158/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000009.png" group-title="",中視 HD
@@ -35,14 +45,13 @@ http://125.227.210.55:8163/VideoInput/play.ts
 http://125.227.210.55:8164/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://hd.videoland.com.tw/images/hd_logo.png" group-title="",緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.brandinlabs.com/wp-content/uploads/2018/10/38668.png" group-title="",動物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1  tvg-logo="https://x0.ifengimg.com/ucms/2024_15/93C9AE55A611DB1FFA704917107939759B03F940_size24_w1056_h240.jpg" group-title="News 新聞",鳳凰衛視 HD台
 http://125.227.210.55:39004/VideoInput/play.ts
+
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000040.png" group-title="戲劇",三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="電影",HBO HD
@@ -59,6 +68,7 @@ http://125.227.210.55:8151/VideoInput/play.ts
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="電影",amc電影臺
 https://stream1.freetv.fun/amczui-ai-dian-ying-3.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e0/SET_Taiwan_Channel_logo.png/240px-SET_Taiwan_Channel_logo.png" group-title="",三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://cc.tvbs.com.tw/2022supertaste/image/logo.png" group-title="",TVBS 歡樂台
@@ -115,14 +125,14 @@ http://125.227.210.55:8172/VideoInput/play.ts
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Religious 宗教",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Discovery-asia.png" group-title="知識",Discovery Asia
-http://125.227.210.55:8154/VideoInput/play.ts
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious 宗教",Beautiful Life TV 人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.sat-address.com/f/pics/Stations/Da-Ai-TV_o.jpg" group-title="Religious 宗教",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1  tvg-logo="https://www.sat-address.com/f/pics/Stations/Da-Ai-TV_o.jpg" group-title="Religious 宗教",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 #EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="News 新聞",DW 德國之聲台
 http://125.227.210.55:42534/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News 新聞",CNN 新聞
@@ -141,6 +151,7 @@ http://125.227.210.55:8161/VideoInput/play.ts
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" group-title="News 新聞",arirang KOREA 阿里郎國際廣播台
 http://125.227.210.55:48553/VideoInput/play.ts
+
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000134.png" group-title="",(大街)緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",(大街)探索亞洲 Discover asia
@@ -155,12 +166,10 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",(大街)八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",臺視新聞
-http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png" group-title="News 新聞",NTV NEWS24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164810377610_27.png" group-title="綜合",(rtmp)緯來育樂
 rtmp://f13h.mine.nu:1935/sat/tv701
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/VL_Japan_Channel_logo.png" group-title="",(rtmp)緯來日本台
@@ -179,6 +188,7 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="",(rtmp)(大街)中視
 rtmp://f13h.mine.nu/sat/tv091
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="News 新聞",❌寰宇新聞台灣台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="News 新聞",❌東森新聞
