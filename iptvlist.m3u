@@ -34,6 +34,8 @@ http://125.227.210.55:8165/VideoInput/play.ts
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png" group-title="News 新聞",NTV NEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" group-title="News 新聞",arirang KOREA 阿里郎國際廣播台
+http://125.227.210.55:48553/VideoInput/play.ts
 
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000007.png" group-title="",台視 HD
 http://125.227.210.55:8158/VideoInput/play.ts
@@ -121,10 +123,6 @@ http://125.227.210.55:8173/VideoInput/play.ts
 http://125.227.210.55:17478/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="",jTV Indonesia
 http://125.227.210.55:8172/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="Religious 宗教",EWTN Asia-Pacific (720p) [Not 24/7]
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Religious 宗教",EWTN Africa Asia (720p)
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious 宗教",Beautiful Life TV 人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -132,6 +130,10 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1  tvg-logo="https://www.sat-address.com/f/pics/Stations/Da-Ai-TV_o.jpg" group-title="Religious 宗教",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Religious 宗教",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Religious 宗教",EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="News 新聞",DW 德國之聲台
 http://125.227.210.55:42534/VideoInput/play.ts
@@ -149,8 +151,6 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 http://125.227.210.55:8161/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News 新聞",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" group-title="News 新聞",arirang KOREA 阿里郎國際廣播台
-http://125.227.210.55:48553/VideoInput/play.ts
 
 #EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000134.png" group-title="",(大街)緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
