@@ -3,13 +3,13 @@
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Discovery-asia.png" group-title="知識",Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/431-4314348_gac-hallmark-channel-discovery-channel-logo-drug-discovery.jpg" group-title="知識",Discovery
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/discovery-channel-logo.jpg" group-title="知識",Discovery
 http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/431-4314348_gac-hallmark-channel-discovery-channel-logo-drug-discovery.jpg" group-title="知識",Discovery
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/discovery-channel-logo.jpg" group-title="知識",Discovery
 https://stream1.freetv.fun/discoveryhd-1.m3u8
-#EXTINF:-1  tvg-logo="https://www.brandinlabs.com/wp-content/uploads/2018/10/38668.png" group-title="",動物星球
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/動物星球.jpg" group-title="",動物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/VL_Japan_Channel_logo.png" group-title="",緯來日本台
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/緯來日本.png" group-title="",緯來日本台
 http://fm1077.serv00.net/Smart.php?id=videolandjapan
 
 #EXTINF:-1  tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png" group-title="News 新聞",Taiwan Plus
@@ -22,7 +22,7 @@ http://125.227.210.55:8157/VideoInput/play.ts
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" group-title="News 新聞",TVBS新聞台
 http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="News 新聞",民視新聞台
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/民視新聞台HD.png" group-title="News 新聞",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://cc.tvbs.com.tw/portal/images/logo.png" group-title="News 新聞",TVBS HD
 http://125.227.210.55:8188/VideoInput/play.ts
@@ -102,23 +102,25 @@ https://stream1.freetv.fun/cnqia-tong-3.ctv
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/緯來戲劇台_logo.png" group-title="戲劇",緯來戲劇台
 https://stream1.freetv.fun/wei-lai-xi-ju-1.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="成人",🔞驚艷臺🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/驚豔成人電影台 Amazing TV.jpg" group-title="成人",🔞驚艷臺🈲
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EXTASY_logo.png" group-title="成人",🔞EXTASY🈲
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EroXXX_HD_logo.png" group-title="成人",🔞EROXXX🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EroXXX HD.png" group-title="成人",🔞EROXXX🈲
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EroX_HD_logo.png" group-title="成人",🔞EROX🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EroX HD.png" group-title="成人",🔞EROX🈲
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="成人",🔞DORCEL TV🈲
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="成人",🔞Desire🈲
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="成人",🔞BrazzersTV Europe🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/BrazzersTV Europe.png" group-title="成人",🔞BrazzersTV Europe🈲
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/BrazzersTV Europe.png" group-title="成人",🔞BrazzersTV Europe 1🈲
+https://stream1.freetv.fun/769b96ae47cfdb19def80d88468c792e13f9edb3514780be0e44210b17e2f9ba.m3u8
 #EXTINF:-1 tvg-logo="https://hung97007.github.io/myiptv/images/Leo_TV_logo.png" group-title="成人",🔞Leo HD🈲
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",🔞Reality Kings HD🈲
+#EXTINF:-1 tvg-logo="https://hung97007.github.io/myiptv/images/Reality Kings.png" group-title="成人",🔞Reality Kings HD🈲
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hung97007.github.io/myiptv/images/Passion_XXX_logo.png" group-title="成人",🔞PassionXXX🈲
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
@@ -227,7 +229,7 @@ https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1  tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="Religious 宗教",❌人間衛視
 https://stream1.freetv.fun/ren-jian-wei-shi-2.m3u8
-#EXTINF:-1  tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="成人",❌🔞🈲香蕉臺🍌
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/香蕉台 Banana TV.jpg" group-title="成人",❌🔞🈲香蕉臺🍌
 http://125.227.210.55:8159/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="" group-title="成人",❌🔞Mainu台🈲
 http://125.227.210.55:51359/VideoInput/play.ts
