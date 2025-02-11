@@ -106,9 +106,9 @@ https://stream1.freetv.fun/wei-lai-xi-ju-1.m3u8
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EXTASY_logo.png" group-title="成人",🔞EXTASY🈲
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EroXXX HD.png" group-title="成人",🔞EROXXX🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EROXXX HD.png" group-title="成人",🔞EROXXX🈲
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EroX HD.png" group-title="成人",🔞EROX🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EROX HD.png" group-title="成人",🔞EROX🈲
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="成人",🔞DORCEL TV🈲
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
