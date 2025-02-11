@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000099.png" group-title="知識",Discovery Asia 探索亞洲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/Discovery Asia 1.jpg" group-title="知識",Discovery Asia 探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/File:Discovery-asia.png" group-title="知識",Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
@@ -104,7 +104,7 @@ https://stream1.freetv.fun/wei-lai-xi-ju-1.m3u8
 
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/驚豔成人電影台 Amazing TV.jpg" group-title="成人",🔞驚艷臺🈲
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EXTASY_logo.png" group-title="成人",🔞EXTASY🈲
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EXTASY.png" group-title="成人",🔞EXTASY🈲
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/EROXXX HD.png" group-title="成人",🔞EROXXX🈲
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
