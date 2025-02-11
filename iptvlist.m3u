@@ -58,45 +58,43 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1  tvg-logo="https://x0.ifengimg.com/ucms/2024_15/93C9AE55A611DB1FFA704917107939759B03F940_size24_w1056_h240.jpg" group-title="News 新聞",鳳凰衛視 HD台
 http://125.227.210.55:39004/VideoInput/play.ts
 
-#EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000040.png" group-title="戲劇",三立戲劇
+#EXTINF:-1  tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="戲劇",三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="電影",HBO HD
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/HBO HD.jpg" group-title="電影",HBO HD
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/170px-HBO_logo.svg.png" group-title="電影",HBO HD
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/HBO HD.jpg" group-title="電影",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="電影",ANIMAX
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/animax-logo.png" group-title="卡通",ANIMAX
 https://stream1.freetv.fun/animax-1.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="電影",CATCHPLAY電影台
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/CN_卡通頻道.png" group-title="卡通",CN卡通頻道
 http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/200px-Cinemax_2016.svg.png" group-title="電影",CINEMAX
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/CINEMAX.png" group-title="電影",CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/200px-Cinemax_2016.svg.png" group-title="電影",CINEMAX
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/CINEMAX.png" group-title="電影",CINEMAX
 https://stream1.freetv.fun/cinemax-17.ctv
-#EXTINF:-1  tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000068.png" group-title="電影",amc電影臺
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/amc電影台.png" group-title="電影",amc電影臺
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="電影",amc電影臺
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/amc電影台.png" group-title="電影",amc電影臺
 https://stream1.freetv.fun/amczui-ai-dian-ying-3.m3u8
-#EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="電影",amc電影臺
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/amc電影台.png" group-title="電影",amc電影臺
 https://stream1.freetv.fun/amcdian-ying-1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="電影",東森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian-4.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e0/SET_Taiwan_Channel_logo.png/240px-SET_Taiwan_Channel_logo.png" group-title="",三立台灣台
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/三立台灣台.png" group-title="",三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="https://cc.tvbs.com.tw/2022supertaste/image/logo.png" group-title="",TVBS 歡樂台
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/TVBS歡樂台.jpg" group-title="",TVBS 歡樂台
 http://125.227.210.55:8187/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="" group-title="",八大戲劇
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",八大綜合
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",八大第一
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/GTV八大第1台HD.jpg" group-title="",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="卡通",中華小當家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/animax-logo.png" group-title="卡通",Animax TW
-https://stream1.freetv.fun/animax-1.m3u8
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/CN_卡通頻道.png" group-title="卡通",CN卡通頻道
 https://stream1.freetv.fun/cnqia-tong-3.ctv
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/緯來戲劇台_logo.png" group-title="戲劇",緯來戲劇台
@@ -122,18 +120,18 @@ https://stream1.freetv.fun/769b96ae47cfdb19def80d88468c792e13f9edb3514780be0e442
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hung97007.github.io/myiptv/images/Reality Kings.png" group-title="成人",🔞Reality Kings HD🈲
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hung97007.github.io/myiptv/images/Passion_XXX_logo.png" group-title="成人",🔞PassionXXX🈲
+#EXTINF:-1 tvg-logo="https://hung97007.github.io/myiptv/images/PassionXXX.png" group-title="成人",🔞PassionXXX🈲
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="電影",WOW MOVIES
 https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786634618.png" group-title="戲劇",TVB星河頻道(香港)
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/TVB Xing He星河.png" group-title="戲劇",TVB星河頻道(香港)
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="",TV5Monde PACIFIQUE [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/200px-Logo_TV5_Monde_-_2021.svg.png" group-title="",TV5MONDE ASIE
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/TV5MONDE ASIE.png" group-title="",TV5MONDE ASIE
 http://125.227.210.55:15533/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="" group-title="",SPOTV
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/SPOTV.png" group-title="",SPOTV
 http://125.227.210.55:8176/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/220px-Nusantara_TV_Logo.svg.png" group-title="",Nusantara TV 印尼雅加達
 http://125.227.210.55:8173/VideoInput/play.ts
@@ -142,7 +140,7 @@ http://125.227.210.55:17478/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="",jTV Indonesia
 http://125.227.210.55:8172/VideoInput/play.ts
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious 宗教",Beautiful Life TV 人間衛視
+#EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/人間衛視HD.png" group-title="Religious 宗教",Beautiful Life TV 人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.sat-address.com/f/pics/Stations/Da-Ai-TV_o.jpg" group-title="Religious 宗教",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
