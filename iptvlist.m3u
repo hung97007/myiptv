@@ -64,6 +64,8 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/HBO HD.jpg" group-title="電影",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1  tvg-logo="" group-title="電影",HBO
+https://stream1.freetv.fun/hbo-9.m3u8
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/animax-logo.png" group-title="卡通",ANIMAX
 https://stream1.freetv.fun/animax-1.m3u8
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/CN_卡通頻道.png" group-title="卡通",CN卡通頻道
@@ -80,6 +82,7 @@ https://stream1.freetv.fun/amczui-ai-dian-ying-3.m3u8
 https://stream1.freetv.fun/amcdian-ying-1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="電影",東森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian-4.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://hung97007.github.io/myiptv/images/三立台灣台.png" group-title="",三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
